@@ -10,7 +10,7 @@ public class Health : MonoBehaviour
 
     [SerializeField] private GameObject bloodParticle;
 
-    [SerializeField] private Renderer renderer;
+    [SerializeField] private new Renderer renderer;
     [SerializeField] private float flashTime = 0.2f;
 
     private void Start()
