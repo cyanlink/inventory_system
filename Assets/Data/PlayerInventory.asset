@@ -19,4 +19,18 @@ MonoBehaviour:
     item: {fileID: 0}
   - quantity: 1
     item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
+  - quantity: 1
+    item: {fileID: 11400000, guid: 1d5c102eef829c04cb3eae18e2927d10, type: 2}
   <Size>k__BackingField: 10
