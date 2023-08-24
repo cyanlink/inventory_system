@@ -60,7 +60,7 @@ namespace Inventory
                 if (!inventoryPage.isActiveAndEnabled)
                 {
                     inventoryPage.Show();
-                    foreach (var item in inventoryData.GetCurretnInventoryState())
+                    foreach (var item in inventoryData.GetCurrentInventoryState())
                     {
                         inventoryPage.UpdateData(item.Key, item.Value.item.ItemImage, item.Value.quantity);
                     }

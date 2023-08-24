@@ -1,6 +1,4 @@
-using Assets._Scripts.Model;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -38,7 +36,7 @@ namespace Inventory.Model
             }
         }
 
-        public Dictionary<int, InventoryItem> GetCurretnInventoryState()
+        public Dictionary<int, InventoryItem> GetCurrentInventoryState()
         {
             Dictionary<int, InventoryItem> ret = new Dictionary<int, InventoryItem>();
             for (int i = 0; i < inventoryItems.Count; i++)
